@@ -1,6 +1,8 @@
 /.ipynb_checkpoints
 /.DS_Store
 /.jupyter_config
-/ai/.ipynb_checkpoints
-/ai/.DS_Store
-/ai/.jupyter_config
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env/
+.venv/
