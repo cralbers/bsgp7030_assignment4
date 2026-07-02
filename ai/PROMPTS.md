@@ -217,3 +217,11 @@ All analysis uses data from `assignment4/data` only. Files in `assignment4/manua
 > Now add code to graph both the ols and rlm models on the same plot
 
 **Added:** Scatter of wage vs education by sex with solid OLS and dashed RLM fitted lines for each sex group
+
+---
+
+### Prompt 17: Annotate extension notebook
+
+> Add comments to explain the code and markdown cells to separate sections in the stats_extension.ipynb notebook
+
+**Updated:** `stats_extension.ipynb` — added `## Setup`, `## Load data`, and `## Compare OLS and RLM` section headers with subsections for OLS, RLM, and the overlay plot; added brief explanatory comments in code cells; removed empty trailing cell
